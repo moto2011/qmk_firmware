@@ -38,8 +38,8 @@ enum layer_number {
 
 enum custom_keycodes {
   QWERTY = SAFE_RANGE,
-//  COLEMAK,
-//  DVORAK,
+  COLEMAK,
+  DVORAK,
   LOWER,
   RAISE,
   ADJUST,
