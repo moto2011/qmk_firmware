@@ -1,4 +1,17 @@
 # The Default Helix Layout
+
+## Layers
+
+|Priority|number|name|description|
+| ---- | ---- | --- | --- |
+|high|16|Adjust|Functions|
+||4|Raise|Numeric charactors|
+||3|Lower|Other charactors|
+||2|Dvorak|Dvorak leyout|
+||1|Colemak|Colemak leyout|
+|low|0|Qwerty|QWERTY leyout(base)|
+```
+
 ## Layout
 
 ### Qwerty
@@ -16,17 +29,6 @@
  |Adjust| Esc  | Alt  | GUI  | EISU |Lower |Space |Enter |Raise | KANA | Left | Down |  Up  |Right |
  `-------------------------------------------------------------------------------------------------'
 ```
-
-## Layers
-
-|Priority|number|name|description|
-| ---- | ---- | --- | --- |
-|high|16|Adjust|Functions|
-||4|Raise|Numeric charactors|
-||3|Lower|Other charactors|
-||2|Dvorak|Dvorak leyout|
-||1|Colemak|Colemak leyout|
-|low|0|Qwerty|QWERTY leyout(base)|
 
 ### Lower
 ```
