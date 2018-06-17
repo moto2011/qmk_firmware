@@ -10,12 +10,10 @@
 ||2|Dvorak|Dvorak leyout|
 ||1|Colemak|Colemak leyout|
 |low|0|Qwerty|QWERTY leyout(base)|
-```
 
 ## Layout
 
 ### Qwerty
-
 ```
  ,-----------------------------------------.             ,-----------------------------------------.
  |   `  |   1  |   2  |   3  |   4  |   5  |             |   6  |   7  |   8  |   9  |   0  |  -   |
