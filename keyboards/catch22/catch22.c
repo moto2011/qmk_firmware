@@ -1,5 +1,5 @@
 /*
-Copyright 2017 Danny Nguyen <danny@hexwire.com>
+Copyright 2018 QMK Community
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
@@ -15,17 +15,4 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-#ifndef CONFIG_H
-#define CONFIG_H
-
-#include "config_common.h"
-
-#endif  // CONFIG_H
-
-#undef  RGBLED_NUM
-#define RGBLIGHT_ANIMATIONS
-#define RGBLED_NUM 16
-
-#ifndef TAPPING_TERM
-#define TAPPING_TERM 100
-#endif
+#include "catch22.h"
